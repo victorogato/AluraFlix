@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background: black;
+    margin: opx
+}
+
+header {
+    border-bottom: solid 2px rgb(42. 122, 228);
+    padding: 20px;
+    fonte-size: 32px;
+    color: rgb(61, 61, 61);
+}
+
+section {
+    background: beige;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flesx;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chama-texto {
+    margin-right: 5%;
+}
